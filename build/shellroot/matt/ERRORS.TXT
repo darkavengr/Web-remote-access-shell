@@ -1,0 +1,29 @@
+                                   º
+ 1       NEXT without FOR           º  37      Argument-count mismatch
+ 2       Syntax error               º  38      Array not defined
+ 3       RETURN without GOSUB       º  40      Variable required
+ 4       Out of DATA                º  50      FIELD overflow
+ 5       Illegal function call      º  51      Internal error
+ 6       Overflow                   º  52      Bad file name or number
+ 7       Out of memory              º  53      File not found
+ 8       Label not defined          º  54      Bad file mode
+ 9       Subscript out of range     º  55      File already open
+ 10      Duplicate definition       º  56      FIELD statement active
+ 11      Division by zero           º  57      Device I/O error
+ 12      Illegal in direct mode     º  58      File already exists
+ 13      Type mismatch              º  59      Bad record length
+ 14      Out of string space        º  61      Disk full
+ 16      String formula too complex º  62      Input past end of file
+ 17      Cannot continue            º  63      Bad record number
+ 18      Function not defined       º  64      Bad file name
+ 19      No RESUME                  º  67      Too many files
+ 20      RESUME without error       º  68      Device unavailable
+ 24      Device timeout             º  69      Communication-buffer overflow
+ 25      Device fault               º  70      Permission denied
+ 26      FOR without NEXT           º  71      Disk not ready
+ 27      Out of paper               º  72      Disk-media error
+ 29      WHILE without WEND         º  73      Feature unavailable
+ 30      WEND without WHILE         º  74      Rename across disks
+ 33      Duplicate label            º  75      Path/File access error
+ 35      Subprogram not defined     º  76      Path not found
+

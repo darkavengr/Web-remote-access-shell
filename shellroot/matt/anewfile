@@ -1,0 +1,195 @@
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน A บ
+                                                                  ศอออผ
+  ABS Function                       APPEND Keyword
+  ABSOLUTE Keyword                   AS Keyword
+  ACCESS Keyword                     ASC Function
+  AND Operator                       ATN Function
+  ANY Keyword
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน B บ
+                                                                  ศอออผ
+  BASE Keyword                       BLOAD Statement
+  Basic Character Set                Boolean Operators
+  BEEP Statement                     BSAVE Statement
+  BINARY Keyword
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน C บ
+                                                                  ศอออผ
+  CALL Statement                     COLOR Statement
+  CALL ABSOLUTE Statement            COM Statement
+  CASE Keyword                       COMMON Statement
+  CDBL Function                      CONST Statement
+  CHAIN Statement                    COS Function
+  CHDIR Statement                    CSNG Function
+  CHR$ Function                      CSRLIN Function
+  CINT Function                      CVD Function
+  CIRCLE Statement                   CVDMBF Function
+  CLEAR Statement                    CVI Function
+  CLNG Function                      CVL Function
+  CLOSE Statement                    CVS Function
+  CLS Statement                      CVSMBF Function
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน D บ
+                                                                  ศอออผ
+  DATA Statement                     DEFLNG Statement
+  Data Type Keywords                 DEFSNG Statement
+  DATE$ Function                     DEFSTR Statement
+  DATE$ Statement                    DIM Statement
+  DECLARE Statement                  DO...LOOP Statement
+  DEF FN Statement                   DOUBLE Keyword
+  DEF SEG Statement                  DRAW Statement
+  DEFDBL Statement                   $DYNAMIC Metacommand
+  DEFINT Statement
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน E บ
+                                                                  ศอออผ
+  ELSE Keyword                       ERDEV Function
+  ELSEIF Keyword                     ERDEV$ Function
+  END Statement                      ERL Function
+  ENVIRON Statement                  ERR Function
+  ENVIRON$ Function                  ERROR Statement
+  EOF Function                       EXIT Statement
+  EQV Operator                       EXP Function
+  ERASE Statement
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน F บ
+                                                                  ศอออผ
+  FIELD Statement                    FOR...NEXT Statement
+  FILEATTR Function                  FRE Function
+  FILES Statement                    FREEFILE Function
+  FIX Function                       FUNCTION Statement
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน G บ
+                                                                  ศอออผ
+  GET (File I/O) Statement           GOSUB Statement
+  GET (Graphics) Statement           GOTO Statement
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน H บ
+                                                                  ศอออผ
+  HEX$ Function
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน I บ
+                                                                  ศอออผ
+  IF...THEN...ELSE Statement         INSTR Function
+  IMP Operator                       INT Function
+  INKEY$ Function                    INTEGER Keyword
+  INP Function                       IOCTL Statement
+  INPUT Statement                    IOCTL$ Function
+  INPUT$ Function                    IS Keyword
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน K บ
+                                                                  ศอออผ
+  KEY (Assignment) Statement         KILL Statement
+  KEY (Event Trapping) Statement
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน L บ
+                                                                  ศอออผ
+  LBOUND Function                    LOCK...UNLOCK Statements
+  LCASE$ Function                    LOF Function
+  LEFT$ Function                     LOG Function
+  LEN Function                       LONG Keyword
+  LET Statement                      LOOP Keyword
+  LINE (Graphics) Statement          LPOS Function
+  LINE INPUT Statement               LPRINT Statement
+  LIST Keyword                       LPRINT USING Statement
+  LOC Function                       LSET Statement
+  LOCATE Statement                   LTRIM$ Function
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน M บ
+                                                                  ศอออผ
+  MID$ Function                      MKI$ Function
+  MID$ Statement                     MKL$ Function
+  MKD$ Function                      MKS$ Function
+  MKDIR Statement                    MKSMBF$ Function
+  MKDMBF$ Function                   MOD Operator
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน N บ
+                                                                  ศอออผ
+  NAME Statement                     NOT Operator
+  NEXT Keyword
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน O บ
+                                                                  ศอออผ
+  OCT$ Function                      ON TIMER Statement
+  OFF Keyword                        ON...GOSUB Statement
+  ON COM Statement                   ON...GOTO Statement
+  ON ERROR Statement                 OPEN Statement
+  ON Keyword                         OPEN COM Statement
+  ON KEY Statement                   OPTION BASE Statement
+  ON PEN Statement                   OR Operator
+  ON PLAY Statement                  OUT Statement
+  ON STRIG Statement                 OUTPUT Keyword
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน P บ
+                                                                  ศอออผ
+  PAINT Statement                    POINT Function
+  PALETTE Statements                 POKE Statement
+  PCOPY Statement                    POS Function
+  PEEK Function                      PRESET Statement
+  PEN Function                       PRINT Statement
+  PEN Statement                      PRINT USING Statement
+  PLAY Function                      PSET Statement
+  PLAY (Music) Statement             PUT (File I/O) Statement
+  PLAY (Event Trapping) Statements   PUT (Graphics) Statement
+  PMAP Function
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน R บ
+                                                                  ศอออผ
+  RANDOM Keyword                     RETURN Statement
+  RANDOMIZE Statement                RIGHT$ Function
+  READ Statement                     RMDIR Statement
+  REDIM Statement                    RND Function
+  REM Statement                      RSET Statement
+  RESET Statement                    RTRIM$ Function
+  RESTORE Statement                  RUN Statement
+  RESUME Statement
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน S บ
+                                                                  ศอออผ
+  SCREEN Function                    SQR Function
+  SCREEN Statement                   STATIC Statement
+  SEEK Function                      $STATIC Metacommand
+  SEEK Statement                     STEP Keyword
+  SELECT CASE Statement              STICK Function
+  SGN Function                       STOP Statement
+  SHARED Statement                   STR$ Function
+  SHELL Statement                    STRIG Function
+  SIN Function                       STRIG Statements
+  SINGLE Keyword                     STRING Keyword
+  SLEEP Statement                    STRING$ Function
+  SOUND Statement                    SUB Statement
+  SPACE$ Function                    SWAP Statement
+  SPC Function                       SYSTEM Statement
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน T บ
+                                                                  ศอออผ
+  TAB Function                       TIMER Statements
+  TAN Function                       TO Keyword
+  THEN Keyword                       TROFF Statement
+  TIME$ Function                     TRON Statement
+  TIME$ Statement                    TYPE Statement
+  TIMER Function
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน U บ
+                                                                  ศอออผ
+  UBOUND Function                    UNTIL Keyword
+  UCASE$ Function                    USING Keyword
+  UNLOCK Statement
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน V บ
+                                                                  ศอออผ
+  VAL Function                       VARSEG Function
+  VARPTR Function                    VIEW Statement
+  VARPTR$ Function                   VIEW PRINT Statement
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน W บ
+                                                                  ศอออผ
+  WAIT Statement                     WIDTH Statements
+  WEND Keyword                       WINDOW Statement
+  WHILE...WEND Statement             WRITE Statement
+                                                                  ษอออป
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน X บ
+                                                                  ศอออผ
+  XOR Operator
+

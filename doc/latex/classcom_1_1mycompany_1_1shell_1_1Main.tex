@@ -1,0 +1,41 @@
+\hypertarget{classcom_1_1mycompany_1_1shell_1_1Main}{}\section{com.\+mycompany.\+shell.\+Main Class Reference}
+\label{classcom_1_1mycompany_1_1shell_1_1Main}\index{com.\+mycompany.\+shell.\+Main@{com.\+mycompany.\+shell.\+Main}}
+
+
+Collaboration diagram for com.\+mycompany.\+shell.\+Main\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=232pt]{classcom_1_1mycompany_1_1shell_1_1Main__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static void \hyperlink{classcom_1_1mycompany_1_1shell_1_1Main_af1528af6ecb9ddfad09364f6ee6fa706}{main} (String\mbox{[}$\,$\mbox{]} args)  throws Exception 
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Java\+Shell does not use \char`\"{}real\char`\"{} directory paths, it uses paths that are relative to the users home directory
+
+It presents what appears to be a directory tree that starts at the root directory / with the users files and directories within that directory, however, each user has their own private directory under the \char`\"{}real\char`\"{} directory shellroot. Each user is unable to see any of the other user\textquotesingle{}s files.
+
+The file and directory paths input by the user and translated into \char`\"{}real\char`\"{} paths by prepending the user\textquotesingle{}s directory to it. In the same way any paths output by the programs are translated to make them into relative paths
+
+For example\+:  /user/matt/javashell/shellroot/admin/test.txt becomes  /test.txt
+
+Another security feature of the program is that directory paths are validated to prevent acccess outside the user\textquotesingle{}s directory. Paths passed to internal and external commands are checked to make sure that security problems cannot occur. 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classcom_1_1mycompany_1_1shell_1_1Main_af1528af6ecb9ddfad09364f6ee6fa706}\label{classcom_1_1mycompany_1_1shell_1_1Main_af1528af6ecb9ddfad09364f6ee6fa706}} 
+\index{com\+::mycompany\+::shell\+::\+Main@{com\+::mycompany\+::shell\+::\+Main}!main@{main}}
+\index{main@{main}!com\+::mycompany\+::shell\+::\+Main@{com\+::mycompany\+::shell\+::\+Main}}
+\subsubsection{\texorpdfstring{main()}{main()}}
+{\footnotesize\ttfamily static void com.\+mycompany.\+shell.\+Main.\+main (\begin{DoxyParamCaption}\item[{String \mbox{[}$\,$\mbox{]}}]{args }\end{DoxyParamCaption}) throws Exception\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [static]}}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+src/main/java/com/mycompany/shell/\hyperlink{Main_8java}{Main.\+java}\end{DoxyCompactItemize}

@@ -1,0 +1,197 @@
+  AND Operator
+  CALL Statement
+  CASE Keyword
+  CHDIR Statement
+  DIM Statement
+  DECLARE Statement
+  DO...LOOP Statement
+  END Statement
+  ERR Function
+  EOF Function
+  EXIT Statement
+  EQV Operator
+  EXP Function
+  ERASE Statement
+  FOR...NEXT Statement
+  FILEATTR Function
+  FILES Statement
+  FREEFILE Function
+  FIX Function
+  FUNCTION Statement
+  GET (File I/O) Statement
+  GOTO Statement
+  HEX$ Function
+  IF...THEN...ELSE Statement
+  INSTR Function
+  IMP Operator
+  INT Function
+  INKEY$ Function
+  INPUT Statement
+  INPUT$ Function
+  KILL Statement
+  LCASE$ Function
+  LOF Function
+  LEFT$ Function
+  LOG Function
+  LEN Function
+
+  LONG Keyword
+  LET Statement
+
+ LOOP Keyword
+  LINE (Graphics) Statement
+
+ LPOS Function
+  LINE INPUT Statement
+LPRINT Statement
+  LIST Keyword
+
+  LPRINT USING Statement
+  LOC Function
+
+  LSET Statement
+  LOCATE Statement
+ LTRIM$ Function
+
+M
+
+  MID$ Function
+
+ MKI$ Function
+  MID$ Statement
+
+MKL$ Function
+  MKD$ Function
+
+ MKS$ Function
+  MKDIR Statement
+  MKSMBF$ Function
+  MKDMBF$ Function
+ MOD Operator
+
+N
+
+  NAME Statement
+
+NOT Operator
+  NEXT Keyword
+
+O
+
+  OCT$ Function
+
+ ON TIMER Statement
+
+  OFF Keyword
+
+ON...GOSUB Statement
+  ON COM Statement
+ ON...GOTO Statement
+  ON ERROR Statement
+  OPEN Statement
+  ON Keyword
+
+ OPEN COM Statement
+  ON KEY Statement
+ OPTION BASE Statement
+  ON PEN Statement
+ OR Operator
+  ON PLAY Statement
+OUT Statement
+  ON STRIG Statement
+  OUTPUT Keyword
+
+P
+
+  PAINT Statement
+  POINT Function
+  PALETTE Statements
+  POKE Statement
+  PCOPY Statement
+  POS Function
+  PEEK Function
+
+ PRESET Statement
+  PEN Function
+
+  PRINT Statement
+ PRINT USING Statement
+ PSET Statement
+  PLAY (Music) Statement
+
+ PUT (File I/O) Statement
+  PLAY (Event Trapping) Statements
+PUT (Graphics) Statement
+  PMAP Function
+
+R
+
+  RANDOM Keyword
+
+RETURN Statement
+  RANDOMIZE Statement
+ RIGHT$ Function
+  READ Statement
+
+RMDIR Statement
+  REDIM Statement
+  RND Function
+  REM Statement
+
+ RSET Statement
+  RESET Statement
+  RTRIM$ Function
+  RESTORE Statement
+RUN Statement
+  RESUME Statement
+
+S
+
+  SCREEN Function
+  SQR Function
+  SCREEN Statement
+ STATIC Statement
+  SEEK Function
+
+ $STATIC Metacommand
+  SEEK Statement
+
+  STEP Keyword
+  SELECT CASE Statement
+  SGN Function
+  STOP Statement
+ STR$ Function
+  SIN Function
+STRING Keyword
+  SLEEP Statement
+  STRING$ Function
+  SOUND Statement
+  SUB Statement
+  SPACE$ Function
+  SWAP Statement
+T
+  TAB Function
+  TIMER Statements
+  TAN Function
+  TO Keyword
+  THEN Keyword
+  TROFF Statement
+  TIME$ Function
+   TRON
+  TIME$ Statement
+U
+  UCASE$ Function
+
+V
+  VAL Function
+W
+
+  WAIT Statement
+  WIDTH Statements
+  WEND Keyword
+  WINDOW Statement
+  WHILE...WEND Statement
+ WRITE Statement
+X
+
+
